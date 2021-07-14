@@ -1,0 +1,2 @@
+# GithubActionsProvingRepository
+GithubActionsを検証する場所

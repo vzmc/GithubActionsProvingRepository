@@ -1,2 +1,3 @@
 # GithubActionsProvingRepository
-GithubActionsを検証する場所
+
+用于测试GithubActions的各项功能
